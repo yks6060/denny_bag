@@ -3,7 +3,7 @@
    > OMS
    > RFID
 
-
+99
 >30(화)
  - 청구마감 예상/처리  완료
  - OMS PO -> ERP SO -> PO -> PRD O  (완료)
